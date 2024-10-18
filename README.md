@@ -21,7 +21,7 @@ Feel free to contribute! (See: [Contributing](docs/CONTRIBUTING.md) 🤝)
 ## ❓ Can't Find What You're Looking For?
 
 If you can't find the materials you need, don't hesitate to create a request in the [Issues](https://github.com/egead/BounPhysResources/issues) section. 📝
-Your feedback and requests are appericated 🤝
+Your feedback and requests are appreciated 🤝
 
 ## 🔗 Quick Links for Undergrad Courses 
 
